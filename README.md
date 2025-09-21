@@ -9,10 +9,10 @@
     <form>
     <table>
     
-    <tr>
+    
         <td><label>Nama:</label></td>
         <td><input type="text" name="nama"></td>
-    </tr>
+    
     
     <tr>  
         <td><label>Email:</label></td>
