@@ -14,17 +14,17 @@
         <td><input type="text" name="nama"></td>
     
     
-    <tr>  
+     
         <td><label>Email:</label></td>
         <td><input type="email" name="email"></td>
-    </tr>
+    
 
-    </tr>
+    
         <td><label>No.Telepon:</label></td>
         <td><input type="number" name="no.telpon"></td>
-    </tr>
+    
 
-    <tr>
+    
         <td><label>Destinasi:</label></td>
         <td>
             <select>
@@ -36,24 +36,24 @@
                 <option>Banda Aceh</option>
             </select>
         </td>
-    </tr>
+    
 
-    <tr>
+    
         <td><label>Tanggal Berangkat:</label></td>
         <td><input type="date" name="tanggal_berangkat"></td>
-    </tr>
+    
 
-    <tr>
+    
         <td><label>Waktu Berangkat:</label></td>
         <td><input type="time" name="waktu_berangkat"></td>
-    </tr>
+    
 
-    <tr>
+    
         <td><label>Jumlah Penumpang:</label></td>
         <td><input type="number" name="jumlah_penumpang"></td>
-    </tr>
+    
 
-    <tr>
+    
         <td><label>Armada:</label></td>
         <td>
            <select>
@@ -62,9 +62,9 @@
             <option>ELF</option>
            </select>
         </td>
-    </tr>
+    
 
-    <tr>
+    
         <td><label>Layanan Tambahan:</label></td>
         <td><input type="checkbox">Selimut<br>
             <input type="checkbox">Makanan<br>
