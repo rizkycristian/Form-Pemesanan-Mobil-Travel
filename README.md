@@ -5,7 +5,6 @@
     <title>FORM PEMESANAN</title>
 </head>
 <body>
-    <h2>Form Pemesanan Mobil Travel</h2>
     <form>
     <table>
     <tr>
