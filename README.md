@@ -1,6 +1,6 @@
 
-[tugaspraktikum1.html](https://github.com/user-attachments/files/22449516/tugaspraktikum1.html)
-<!DOCTYPE html>
+(https://github.com/user-attachments/files/22449516/tugaspraktikum1.html)
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
