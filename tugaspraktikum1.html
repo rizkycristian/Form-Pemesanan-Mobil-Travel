@@ -79,6 +79,8 @@
         <td><input type="file" name="ktp" ><br></td>
     </tr>
     </table>
+    <input type="submit" value="Kirim Pemesanan">
+    <input type="reset" value="batalkan">
     </form>
 </body>
 </html>
