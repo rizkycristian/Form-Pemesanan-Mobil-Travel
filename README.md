@@ -1,5 +1,3 @@
-# tugaswebsitepraktikum1[tugaspraktikum1.html](https://github.com/user-attachments/files/22449081/tugaspraktikum1.html)
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
