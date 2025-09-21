@@ -1,5 +1,4 @@
 
-(https://github.com/user-attachments/files/22449516/tugaspraktikum1.html)
 
 <html lang="en">
 <head>
