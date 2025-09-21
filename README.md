@@ -50,7 +50,7 @@
 
     <tr>
         <td><label>Jumlah Penumpang:</label></td>
-        <td><input type="number" name="jumlah_penumpang"</td>
+        <td><input type="number" name="jumlah_penumpang"></td>
     </tr>
 
     <tr>
