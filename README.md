@@ -1,5 +1,4 @@
 
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -73,6 +72,11 @@
             <input type="checkbox">Makanan<br>
             <input type="checkbox">Air Mineral<br>
         </td>
+    </tr>
+
+    <tr>
+        <td><label>Upload KTP:</label></td>
+        <td><input type="file" name="ktp" ><br></td>
     </tr>
     </table>
     </form>
